@@ -1,5 +1,5 @@
 ## TS-Multi-uses-pkg
-||source|
+||Source|
 |---|---|
 |Download |[![Download](https://raw.githubusercontent.com/Programmer-Om/TS-Multi-uses-pkg/main/img/npm-svgrepo-com.svg)](https://www.npmjs.com/package/ts-multiuses-package)|
 - wait for updates 
