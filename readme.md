@@ -1,5 +1,7 @@
 ## TS-Multi-uses-pkg
-[![Download](https://raw.githubusercontent.com/Programmer-Om/TS-Multi-uses-pkg/main/img/npm-svgrepo-com.svg)](https://www.npmjs.com/package/ts-multiuses-package)
+||source|
+|---|---|
+|Download |[![Download](https://raw.githubusercontent.com/Programmer-Om/TS-Multi-uses-pkg/main/img/npm-svgrepo-com.svg)](https://www.npmjs.com/package/ts-multiuses-package)|
 - wait for updates 
 # New :
 > - random class was added 
