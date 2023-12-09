@@ -1,0 +1,15 @@
+{
+  "name": "ts-multiuses-package",
+  "version": "1.2.4",
+  "description": "A Type Script Multi Uses pkg , cantain classes you can use in your projects",
+  "main": "source/JS/index.js",
+  "types": "source/TS/index.ts",
+  "devDependencies": {
+    "@types/node": "^20.10.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "omar-abdou",
+  "license": "BSD-2-Clause"
+}
