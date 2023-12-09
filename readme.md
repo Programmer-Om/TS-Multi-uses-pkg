@@ -1,4 +1,5 @@
 ## TS-Multi-uses-pkg
+|Download|[![Download](https://raw.githubusercontent.com/Programmer-Om/TS-Multi-uses-pkg/main/img/download-minimalistic-svgrepo-com.svg)]
 - wait for updates 
 # New :
 > - random class was added 
