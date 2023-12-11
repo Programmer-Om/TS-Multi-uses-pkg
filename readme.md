@@ -6,7 +6,7 @@
 # New :
 > - Add handleData function
 # Usage :
-```
+```js
 const tsm = require("ts-multiuses-package");
 
 let randomCode = new tsm.random(2// your code prefix) //2xD72Serwr#d+N
