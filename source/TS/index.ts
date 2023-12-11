@@ -51,5 +51,5 @@ function handleData(data:stnum){
 
 // EXPORT 
 module.exports={
-    inverseToString,inverseBoolean,random
+    inverseToString,inverseBoolean,random,handleData
 };
