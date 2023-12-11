@@ -4,6 +4,7 @@
   "description": "A Type Script Multi Uses pkg , cantain classes you can use in your projects",
   "main": "source/JS/index.js",
   "types": "source/TS/index.ts",
+  "repository": "https://github.com/Programmer-Om/TS-Multi-uses-pkg",
   "devDependencies": {
     "@types/node": "^20.10.4"
   },
